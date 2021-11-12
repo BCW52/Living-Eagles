@@ -2,7 +2,7 @@
 ROOT_UID=0
 THEME_DIR="/usr/share/grub/themes"
 FONT_DIR="/boot/grub/"
-THEME_NAME=Living-Eagles
+THEME_NAME=Living-Eagles-1.1
 FONT_NAME="Permanent_Marker.pf2"
 MAX_DELAY=20
 CDEF=" \033[0m"                                     # default color
