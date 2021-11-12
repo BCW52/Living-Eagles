@@ -1,5 +1,5 @@
 # Living-Eagles Grub2 Theme Tribute to Saiful Azam
-#Installation:-
+# Installation:-
               git clone https://github.com/BCW52/Living-Eagles.git
               chmod +x installsh && ./install.sh 
               or 
