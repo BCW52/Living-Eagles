@@ -1,7 +1,9 @@
 # Living-Eagles Grub2 Theme Tribute to Saiful Azam
 #Installation:-
-              
-              chmod +x installsh && ./install.sh or sudo bash install.sh
+              git clone https://github.com/BCW52/Living-Eagles.git
+              chmod +x installsh && ./install.sh 
+              or 
+              sudo bash install.sh
 # Bio:-
 Saiful Azam (11 September 1941 – 14 June 2020) was a Bangladeshi pilot and politician who first served as a fighter pilot for the Pakistan Air Force (PAF) (1960–1971) and later the Bangladesh Air Force (BAF) (1971–1979).
 
